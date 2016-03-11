@@ -1,4 +1,4 @@
-# Arbitary code for purpose of demonstration
+# Arbitary code for purpose of demonstration (using loop from previous day)
 
 word = "Newton"
 reversed_word = ""
